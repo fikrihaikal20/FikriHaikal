@@ -1,5 +1,9 @@
 # 👋 Hey there! I'm [Fikri Haikal](https://github.com/fikrihaikal20)
 
+<p align="center">
+  <img width="250" src="https://media.giphy.com/media/jIgXf4hgbHCeKiXpvt/giphy.gif">
+</p>
+
 I am a Full Stack Software Developer. I am passionate about technologies and love to learn new things.
 
 ## 🔗 Grab a link! Let's talk.
